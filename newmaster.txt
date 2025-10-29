@@ -1,0 +1,17 @@
+#this  will give you an info about your ststem propertes.
+
+
+
+set -x
+ 
+nproc
+
+ll
+
+
+mkdir vik
+
+cd vik
+
+touch firstfile secondfile.txt
+
